@@ -1,0 +1,210 @@
+body {
+   background-image: url(https://thumbs.gfycat.com/DamagedFamiliarBetafish-size_restricted.gif);
+   background-repeat: no-repeat;
+   background-size: cover;
+   display: flex;
+   text-align: center;
+   
+}
+
+.page {
+   background-color: white;
+   margin: auto;
+   margin-top: 5%;
+   margin-bottom: 5%;
+   min-width: 70%;
+   max-width: 75%;
+}
+
+.navbar {
+   overflow: hidden;
+   background-color: #a0f142;
+}
+
+ul {
+   list-style: none;
+}
+
+.navbar ul li a {
+   float: left;
+   font-size: 120%;
+   color: white;
+   text-align: center;
+   padding: 3%;
+   text-decoration: none;
+   
+}
+
+.navbar ul li a:hover {
+   background-color: red;
+}
+
+/*.navbar {
+   height: 20%;
+   width: 90%;
+   background-color: aqua;
+}
+
+ul {
+   list-style: none;
+   display: flex;
+   flex-wrap: nowrap;
+   flex-direction: row;
+}
+
+button {
+   padding: 3%;
+   font-weight: 600;
+   border: none;
+   color: rgb(157, 147, 147);
+}
+
+a {
+   text-decoration: none;
+   color: black;
+}*/
+
+.content {
+   margin: auto;
+   padding: 5%;
+   display: block;
+   text-align: left;
+   margin-bottom: 0;
+   margin-top: 0;
+}
+
+h1 {
+   margin-bottom: 5%;
+   color: black;
+   text-align: center;
+}
+
+p {
+   hyphens: auto;
+   text-align: justify;
+   -moz-text-align-last: left;
+   text-align-last: left;
+}
+
+iframe {
+   margin: auto;
+   display: flex;
+   align-items: center;
+   margin-top: 5%;
+}
+
+.tipps-title h2 {
+   position: relative;
+   margin-bottom: 3%;
+   display: inline-block;
+   font-weight: 600;
+   line-height: 1;
+  }
+  
+  .tipps {
+   background: #FFFFFF;
+   box-shadow: 0 2px 48px 0 rgba(0, 0, 0, 0.06);
+   border-radius: 4px;
+  }
+  
+  .tipps .card {
+   border: none;
+   background: none;
+   border-bottom: 1px solid #CEE1F8;
+  }
+  
+  .tipps .card .card-header {
+   padding: 0;
+   border: none;
+   background: none;
+   -webkit-transition: all 0.3s ease 0s;
+   -moz-transition: all 0.3s ease 0s;
+   -o-transition: all 0.3s ease 0s;
+   transition: all 0.3s ease 0s;
+  }
+  
+  .tipps .card .card-header:hover {
+     background: rgba(30, 233, 84, 0.1);
+     padding-left: 10px;
+  }
+  .tipps .card .card-header .tipps-title {
+   width: 100%;
+   text-align: left;
+   padding: 0px;
+   padding-left: 30px;
+   padding-right: 30px;
+   font-weight: 400;
+   font-size: 15px;
+   letter-spacing: 1px;
+   color: black;
+   text-decoration: none !important;
+   -webkit-transition: all 0.3s ease 0s;
+   -moz-transition: all 0.3s ease 0s;
+   -o-transition: all 0.3s ease 0s;
+   transition: all 0.3s ease 0s;
+   cursor: pointer;
+   padding-top: 20px;
+   padding-bottom: 20px;
+  }
+  
+  .tipps .card .card-header .tipps-title .badge {
+   display: inline-block;
+   width: 30px;
+   height: 30px;
+   line-height: 30px;
+   /*float: left;*/
+   -webkit-border-radius: 100px;
+   -moz-border-radius: 100px;
+   border-radius: 100px;
+   text-align: center;
+   background: #a0f142;
+   color: white;
+   font-size: 12px;
+   margin-right: 20px;
+  }
+  
+  .tipps .card .card-body {
+   padding: 30px;
+   padding-left: 35px;
+   padding-bottom: 16px;
+   font-weight: 400;
+   font-size: 16px;
+   color: black;
+   line-height: 28px;
+   letter-spacing: 1px;
+   border-top: 1px solid #F3F8FF;
+  }
+  
+  .tipps .card .card-body p {
+   margin-bottom: 14px;
+  }
+  
+  @media (max-width: 991px) {
+   .tipps {
+     margin-bottom: 30px;
+   }
+   .tipps .card .card-header .tipps-title {
+     line-height: 26px;
+     margin-top: 10px;
+   }
+  }
+
+.footer {
+   overflow: hidden;
+   background-color: #a0f142;
+   color: white;
+   font-size: 90%;
+   text-align: center;
+   padding: 3%;
+   text-decoration: none;
+}
+
+.footer li {
+   float: left;
+   padding-right: 10%;
+}
+
+.footer a {
+   text-decoration: none;
+   color: white;
+}
