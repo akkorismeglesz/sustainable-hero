@@ -1,1 +1,18 @@
 # Sustainable Hero - Project for Hackbytes II
+
+## Inspiration
+My inspiration stems from the belief that every individual has the power to make a difference. By empowering individuals through our website, we hope to foster a widespread movement towards sustainable living, where conscious choices become the norm and collectively lead to a significant positive impact on our planet. Together, we can make a significant impact and build a greener future.
+## What it does
+The website serves as a valuable resource for individuals seeking to lead a sustainable lifestyle. We provide ten practical tips, guides, and information on various aspects of sustainable living, including energy conservation, waste reduction, eco-friendly transportation, and ethical consumption. Additionally, our website features a user-friendly carbon footprint calculator that allows visitors to assess their personal environmental impact based on factors such as energy usage, transportation habits, and waste generation. By combining tips for sustainable living with a carbon footprint calculator, we aim to empower individuals to make informed choices and take meaningful steps towards reducing their ecological footprint.
+## How we built it
+The website was built using HTML and CSS, providing a clean and responsive user interface. The informative texts on sustainable living were generated using ChatGPT, a powerful language model, ensuring accurate and helpful information. The visually appealing image throughout the website was created using the DeepAI Image Generator, adding an engaging and aesthetic touch. Furthermore, the carbon footprint calculator embedded in the website is a reliable tool provided by https://www.carbonfootprint.com/calculator.aspx, allowing users to assess their environmental impact accurately.
+## Challenges I ran into
+Throughout the project, we faced two significant challenges. The first was implementing responsive design for the first time. This involved ensuring that the website layout and elements adapt seamlessly to different screen sizes and devices. It required extensive planning, testing, and tweaking of CSS media queries to achieve a consistent and user-friendly experience across various devices.
+The second challenge involved incorporating and customizing someone else's code within an iframe on the website. I successfully implemented responsive design and seamlessly integrated the external code within the iframe, resulting in a polished and functional website.
+## Accomplishments that I'm proud of
+I successfully added and adapted someone else's code to the website. I am proud of the (almost) fully responsive nature of the website and my ability to integrate and adapt external code.
+## What I learned
+I learned how to add and adapt someone else's code to the website and practiced to use responsive webdesign.
+## What's next for Be a sustainable hero
+Looking ahead, I have exciting plans to further enhance the website and expand its capabilities. Firstly, I aim to make the website fully responsive, ensuring optimal user experience across all devices and screen sizes. By fine-tuning the design and layout, I will create a seamless and intuitive browsing experience for visitors.
+Another important feature on my roadmap is the implementation of a working dropdown list for the tips. Furthermore, I envision making the website multilingual by leveraging the Google Translate API. This will enable users from diverse linguistic backgrounds to access the content in their preferred language, broadening the reach and impact of the website. By integrating the translation functionality seamlessly, I will ensure a smooth and accurate translation experience.
